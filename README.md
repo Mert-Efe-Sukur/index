@@ -1,2 +1,2 @@
 # Index
-Index.html
+index.html
